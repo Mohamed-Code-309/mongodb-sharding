@@ -11,7 +11,9 @@
 2. [Sharding in Mongodb Database](#shard_mongo)
 
     2.1 [Cluster Illustration](#cluster)
+   
     2.2 [Understanding Shard Key and Chunks](#key)
+
     2.3 [Configure Sharding](#config)
 
 
